@@ -1,6 +1,6 @@
 #  Design Patterns
 
-### Связаться со мной:
+### Connect to me:
 [<img alt="webDev | Instagram" src="https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />][instagram]
 [<img alt="webDev | LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
